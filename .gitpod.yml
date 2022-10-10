@@ -22,8 +22,3 @@ tasks:
   - init: npm install
     command: npm run dev
     name: Dev
-  - command: |
-      gp ports await 3000
-      export CYPRESS_BASE_URL=$(gp url 3000)
-      npm run test:cy:sanity
-    name: Test
