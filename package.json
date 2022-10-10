@@ -1,0 +1,53 @@
+{
+  "name": "web-testing-2022",
+  "version": "1.0.0",
+  "description": "[#testing4good](https://twitter.com/hashtag/Testing4Good)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "happo": "happo",
+    "happo-ci-github-actions": "happo-ci-github-actions",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "test:cy:ci": "npx cypress run --spec '**/**/solution.cy.js' --browser=chrome",
+    "test:cy:sanity": "npx cypress run --spec '**/**/sanity.cy.js' --browser=chrome",
+    "test:visual": "npx happo-e2e -- npx cypress run --spec 'cypress/e2e/visual.cy.js'",
+    "test:sanity": "npm run test:cy:sanity && npm run test:visual"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
