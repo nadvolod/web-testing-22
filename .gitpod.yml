@@ -12,7 +12,7 @@ ports:
     name: VNC
     description: VNC Server
   - port: 6080
-    onOpen: ignore
+    onOpen: open-preview
     name: VNC
     description: VNC Viewer
 
