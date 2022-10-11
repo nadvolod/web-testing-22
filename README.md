@@ -2,9 +2,9 @@
 
 [#testing4good](https://twitter.com/hashtag/Testing4Good)
 
-> Before we start, click this button and let the container load
+> Before we start, open this in a new tab and let the container load.
 
-[![Try in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/web-testing-22){:target="_blank"}
+[![Try in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/web-testing-22)
 
 
 In this workshop you will learn some of the latest tools and techniques to improve your ability to test modern web applications.
