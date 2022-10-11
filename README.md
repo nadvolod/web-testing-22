@@ -157,7 +157,7 @@ Run sanity tests
 If your tests run in US Datacenter
 
 ```bash
-npm run test:cy:sanity
+npm run test:sanity
 ```
 
 ### ✅👏Environment setup is complete if tests passed
