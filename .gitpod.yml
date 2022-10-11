@@ -3,7 +3,7 @@ image:
 
 ports:
   - port: 3000
-    onOpen: open-preview
+    onOpen: open-browser
     visibility: public
     name: Website
     description: Preview of Website
@@ -12,7 +12,8 @@ ports:
     name: VNC
     description: VNC Server
   - port: 6080
-    onOpen: open-preview
+    onOpen: open-browser
+    visibility: public
     name: VNC
     description: VNC Viewer
 
