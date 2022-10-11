@@ -2,6 +2,9 @@
 
 [#testing4good](https://twitter.com/hashtag/Testing4Good)
 
+[![Try in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/web-testing-22)
+
+
 In this workshop you will learn some of the latest tools and techniques to improve your ability to test modern web applications.
 
 You will analyze risks and how to prevent those risks with e2e testing, component testing, and Github Actions.
