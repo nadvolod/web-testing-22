@@ -6,7 +6,7 @@ In this workshop you will learn some of the latest tools and techniques to impro
 
 You will analyze risks and how to prevent those risks with e2e testing, component testing, and Github Actions.
 
-> Before we start, open this in a new tab and let the container load.
+> Before we start, open this in a new tab and let the container load. Takes a few mins. Longer for slower internet.
 
 [![Try in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/web-testing-22)
 
