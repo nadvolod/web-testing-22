@@ -110,8 +110,6 @@ The safest way to ensure that we all have the same environment is for us to [use
 
 ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local environment.
 
-### Fork the repo
-
 1. Sign up for a free [Github account](https://github.com/)
 2. Click the button below in a new tab and let the container load.
 
