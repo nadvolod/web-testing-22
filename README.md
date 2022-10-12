@@ -101,6 +101,7 @@ The safest way to ensure that we all have the same environment is for us to [use
 ### Sign up for accounts
 
 1. Free [Happo.io account](https://happo.io/signup?_aid=802)
+  - Just pick any account you want. "Your trial is just a trial – no commitment is required. You can change the plan at any time during the trial and after the trial."
 1. Free [Github account](https://github.com/signup)
 
 ---
@@ -112,17 +113,13 @@ The safest way to ensure that we all have the same environment is for us to [use
 ### Fork the repo
 
 1. Sign up for a free [Github account](https://github.com/)
-2. Fork this respository
+2. Click the button below in a new tab and let the container load.
 
-- Make sure you are logged into Github
-- click the Fork in the upper right of the Github.
-- Give the repo a ⭐ or you can't participate in the workshop😝
+[![Try in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/web-testing-22)
 
-3. Click here
-     
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nadvolod/js-code/tree/master/web-testing-2022)
+> Important! Give the repo a ⭐ or you can't participate in the workshop😝 just kidding of course
 
-4. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
+3. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
 
 ### ✅ A new tab open with a simple ReactJS application should open
 
@@ -141,7 +138,7 @@ eval $(gp env -e HAPPO_API_KEY=<key>)
 eval $(gp env -e HAPPO_API_SECRET=<secret>)
 ```
 
-Once you have run those 3 commands, you can run the following commands to test your environment variables:
+Youu can run the following commands to test your environment variables:
 
 ```bash
 echo $HAPPO_API_KEY
