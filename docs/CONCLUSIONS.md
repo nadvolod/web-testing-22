@@ -7,7 +7,7 @@
 <img width="500" height="400" alt="Ecosia" src="https://user-images.githubusercontent.com/2136245/165755056-82ef47b0-df56-497e-a546-8792a5227ffd.png">
 
 1. We raised...
-2. Please leave some quick and anonymous [feedback on this workshop](https://docs.google.com/forms/d/e/1FAIpQLSes4ft4_0JGFQnMB5Tj2L6J3-IWLX2jqyRIc7ejrDlLiCfIyg/viewform?usp=sf_link)
+2. Please leave some quick and anonymous [feedback on this workshop](https://forms.gle/HtofXK4ttHgfpDWc6)
 3. 📫 Follow me as I will do many more Testing for Good events
 
    - [JS Testing Newsletter](https://ultimateqa.ck.page/js-testing-tips)
