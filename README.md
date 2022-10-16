@@ -196,15 +196,15 @@ git clone URL_OF_YOUR_FORK
 
 ## Prizes
 
-Prizes will be given away for participation (tshirts, stickers...)
-
-At the end, one lucky winner will get a backpack!
+1. A lucky winner gets a backpack at the end
+2. Best student prize
+3. A lego set after TfG for someone that fills out feedback form
 
 ## Rules of engagement
 
 <img src="https://media.giphy.com/media/CB26wRVi3B9T2/giphy.gif" alt="api-testing" width="500"/>
 
-- I'm here to serve you, your education, and your experience
+- I'm here to Serve You, your education, and your experience
 - Be kind, respectful, no judgment
 - Have fun
 
