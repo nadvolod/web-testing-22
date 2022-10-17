@@ -66,5 +66,3 @@ Test by running `npm run test:visual`
 ## 📝Summary
 
 ✅Visual e2e testing is a simple and efficient way to ensure visual consistency cross-platform and cross-OS
-
-## ⏭️[Let's make our tests run in CI](./CICD.md)
