@@ -22,3 +22,13 @@ tasks:
   - init: npm install
     command: npm run start
     name: Dev
+
+# find extensions https://open-vsx.org/
+vscode:
+  extensions:
+    - usernamehw.errorlens
+    - dsznajder.es7-react-js-snippets
+    - oderwat.indent-rainbow
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
+    - mgmcdermott.vscode-language-babel
