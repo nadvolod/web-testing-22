@@ -26,7 +26,6 @@ You will analyze risks and how to prevent those risks with e2e testing, componen
 
 1. Experience JavaScript + Node.js
 
-
 ## 🔧Technologies you will use
 
 1. ReactJS
@@ -54,17 +53,17 @@ Today, we're asking for donations for [Environmental Working Group](https://buy.
 
 ### [About Environmental Working Group](https://www.ewg.org/)
 
-We're advocates who won't quit. We're scientists that find solutions. We're people trying to make the safest choices for our health. At the Environmental Working Group, we believe that you should have easy access to the information you need to make smart, healthy choices. It’s this belief that inspired our president and co-founder, Ken Cook, to create EWG.  
+We're advocates who won't quit. We're scientists that find solutions. We're people trying to make the safest choices for our health. At the Environmental Working Group, we believe that you should have easy access to the information you need to make smart, healthy choices. It’s this belief that inspired our president and co-founder, Ken Cook, to create EWG.
 
-Since 1993, we've worked tirelessly to protect public health. Whether it's spotlighting harmful industry standards, speaking out against outdated government legislation or empowering consumers with breakthrough education and research, we're in this fight. 
+Since 1993, we've worked tirelessly to protect public health. Whether it's spotlighting harmful industry standards, speaking out against outdated government legislation or empowering consumers with breakthrough education and research, we're in this fight.
 
 And we're not going anywhere.
 
-👉 While the event is free, Sauce Labs encourages all attendees to 
+👉 While the event is free, Sauce Labs encourages all attendees to
 
-👉 **[donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)** 
+👉 **[donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)**
 
-Anything helps! 
+Anything helps!
 
 100% of donations go to support the cause.
 
@@ -78,7 +77,7 @@ Anything helps!
 
 ## Your Instructor: Nikolay Advolodkin
 
-<img src="public/images/family.jpg" alt="api-testing" width="500"/>
+<img src="public/images/family.jpg" alt="api-testing" height="200" width="200"/>
 
 - 🏢 I’m a Sr Solutions Architect at Sauce Labs
 - 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/)
@@ -92,7 +91,13 @@ Anything helps!
   - [LinkedIn for professional connections](https://www.linkedin.com/in/nikolayadvolodkin/)
   - [Twitter for 🔥 Dev quotes](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
 
-## TA 1
+## TA: John Orr
+
+<img src="graphics/john-o.jpg" alt="john" width="200"/>
+
+- I’m a Solutions Architect at Sauce Labs
+- Pronouns: he/him
+- Fun fact: I’ve played both Carnegie Halls
 
 ## ⚙️ Setup
 
@@ -101,7 +106,9 @@ The safest way to ensure that we all have the same environment is for us to [use
 ### Sign up for accounts
 
 1. Free [Happo.io account](https://happo.io/signup?_aid=802)
-  - Just pick any account you want. "Your trial is just a trial – no commitment is required. You can change the plan at any time during the trial and after the trial."
+
+- Just pick any account you want. "Your trial is just a trial – no commitment is required. You can change the plan at any time during the trial and after the trial."
+
 1. Free [Github account](https://github.com/signup)
 
 ---
@@ -132,6 +139,7 @@ In a new terminal, run the following commands in that Terminal to set your `HAPP
 ```bash
 eval $(gp env -e HAPPO_API_KEY=<key>)
 ```
+
 ```bash
 eval $(gp env -e HAPPO_API_SECRET=<secret>)
 ```
@@ -207,4 +215,3 @@ git clone URL_OF_YOUR_FORK
 - I'm here to Serve You, your education, and your experience
 - Be kind, respectful, no judgment
 - Have fun
-
